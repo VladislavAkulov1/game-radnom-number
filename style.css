@@ -1,0 +1,22 @@
+.game-card {
+    display: flex;
+    background-color:lightblue;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 16px;
+  }
+  
+  button:hover {
+  background-color: #e0e0e0;
+  box-shadow: none;
+}
